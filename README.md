@@ -1,2 +1,2 @@
 # delta-demo
-practice
+practice makes man perfect.
